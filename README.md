@@ -65,7 +65,7 @@
 - Automated attendance logging with photo capture, geolocation tagging, and late-arrival detection
 - Task tracking with 3-tier priority levels, CSV export, and admin database backups
 
-#### 💳 [UPI Fraud Detection System](#)
+#### 💳 [UPI Fraud Detection System](https://github.com/Parvez621/Upi_Fraud_Detection)
 `Python` `MySQL` `LightGBM`
 - Simulated a 150K-transaction UPI dataset modeling normal and fraud behavior patterns
 - Engineered 19 behavioral features per user window (device-switch ratio, night-transaction ratio, etc.)
