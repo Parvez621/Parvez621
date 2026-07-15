@@ -57,7 +57,7 @@
 
 ### 🔥 Featured Projects
 
-#### 🗂️ [AttendX – Attendance & Task Management System](#)
+#### 🗂️ [AttendX – Attendance & Task Management System]([#](https://github.com/Parvez621/AttendX))
 `Node.js` `Express` `SQLite`
 - Full-stack attendance platform with role-based access across 18 REST endpoints
 - Secured auth endpoints with bcrypt password hashing and token-based session validation
@@ -72,14 +72,14 @@
 - Trained a LightGBM classifier achieving **0.844 ROC-AUC** and 88% accuracy on imbalanced data
 - Tuned decision threshold to hit 98% fraud recall at 85% precision
 
-#### 👥 [CodeSync – Real-Time Collaborative Code Editor](#)
+#### 👥 [CodeSync – Real-Time Collaborative Code Editor]([#](https://github.com/Parvez621/Code-Sync))
 `Node.js` `Express.js` `Socket.IO`
 - Real-time code editor supporting 5 concurrent users via Socket.IO broadcast sync
 - Live multi-user cursors with color-coded, auto-fading labels, plus in-room chat
 - Integrated JDoodle API to execute code in C++, Java, and Python3 with custom stdin
 - Built an AST visualizer with Tree-sitter for interactive C/C++ structure analysis
 
-#### 🤟 [Indian Sign Language (ISL) to Text Conversion](#)
+#### 🤟 [Indian Sign Language (ISL) to Text Conversion]([#](https://github.com/Parvez621/ISL-to-Text))
 `Python` `OpenCV` `Mediapipe`
 - Real-time computer vision system converting hand gestures into text
 - Extracted hand landmark features with preprocessing for consistent gesture recognition
@@ -89,9 +89,9 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Parvez621&show_icons=true&theme=default" alt="GitHub Stats" />
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Parvez621" alt="GitHub Streak" />
