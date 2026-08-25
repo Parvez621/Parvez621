@@ -1,230 +1,178 @@
-<h1 align="center">Hey 👋, I'm Parvez Saifi</h1>
+<div align="center">
 
-<h3 align="center">
-  Software Engineer • Backend Developer • ML Enthusiast
-</h3>
+# Parvez Saifi
 
-<p align="center">
-  <b>Building scalable backends, real-time systems & intelligent applications.</b>
-</p>
+### Software Engineer · Backend Developer · ML Enthusiast
 
-<p align="center">
-  <a href="[https://www.linkedin.com/in/parvez-saifi-a59824249/]">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:saifip621@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/Parvez621">
-    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
-
-<br>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Parvez621&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
-
----
-
-## 🧑‍💻 About Me
-
-I'm a **final-year Computer Science undergraduate at Graphic Era Hill University**, passionate about turning ideas into reliable, production-ready software.
-
-My interests sit at the intersection of **backend engineering, distributed real-time systems, and machine learning**.
-
-* 🎓 **B.Tech — Computer Science & Engineering** · 2022–2026
-* 🏗️ Building full-stack applications with **authentication, RBAC & relational databases**
-* ⚡ Developing **real-time systems** with WebSockets & Socket.IO
-* 🤖 Exploring **Machine Learning & Computer Vision**
-* 🔐 Interested in backend architecture, APIs, databases & system design
-* 🚀 Currently looking for **Software Engineer, Backend Developer & ML opportunities**
-
-> **I enjoy building things that are not only functional, but scalable, secure, and easy to reason about.**
-
----
-
-## ⚡ What I Build
-
-```text
-┌──────────────────────────────────────────────────────────────┐
-│                                                              │
-│   🏗️ Backend Systems       ⚡ Real-Time Applications        │
-│                                                              │
-│   🔐 Authentication         🤖 Machine Learning             │
-│                                                              │
-│   🗄️ Database Design       👁️ Computer Vision               │
-│                                                              │
-│   🔌 REST APIs              🧩 Full-Stack Applications      │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
-```
-
----
-
-## 🛠️ Tech Stack
-
-### 💻 Languages
+<img src="https://readme-typing-svg.demolab.com?font=Inter&size=18&duration=3000&pause=1000&color=555555&center=true&vCenter=true&width=700&lines=Backend+Engineering;Real-Time+Systems;Machine+Learning+%26+Computer+Vision" alt="Areas of focus" />
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,cpp,js,sql" />
+  <a href="https://www.linkedin.com/in/parvez-saifi-a59824249/">LinkedIn</a>
+  &nbsp;·&nbsp;
+  <a href="mailto:saifip621@gmail.com">Email</a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/Parvez621">GitHub</a>
 </p>
 
-### ⚙️ Backend & APIs
-
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,socketio" />
-</p>
-
-**REST APIs** · **Authentication** · **RBAC** · **WebSockets** · **Session Management**
-
-### 🗄️ Databases
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,sqlite" />
-</p>
-
-**Relational Database Design** · **Normalization** · **Foreign Keys** · **SQL**
-
-### 🤖 Machine Learning & Computer Vision
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,opencv" />
-</p>
-
-**LightGBM** · **OpenCV** · **MediaPipe** · **Feature Engineering** · **Classification**
-
-### 🔧 Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
-</p>
+</div>
 
 ---
 
-# 🚀 Featured Projects
+## About
 
-### 🗂️ AttendX
+Final-year **B.Tech Computer Science and Engineering** student at **Graphic Era Hill University (2022–2026)**, focused on backend engineering, real-time applications, databases, and machine learning.
 
-**Attendance & Task Management System**
+I build full-stack systems with an emphasis on **API design, authentication, relational data modeling, real-time communication, and practical ML applications**.
 
-`Node.js` · `Express` · `SQLite`
+Currently seeking opportunities in:
 
-> A full-stack platform designed around attendance tracking, task management and administrative workflows.
-
-* 🔌 **18 REST endpoints** with role-based access control
-* 🔐 bcrypt password hashing + token-based session validation
-* 🗄️ Normalized SQLite schema with **4 linked tables**
-* 📸 Automated attendance using **photo capture + geolocation**
-* ⏰ Automatic **late-arrival detection**
-* 📋 Task management with **3 priority levels**
-* 📤 CSV export + administrative database backups
-
-**[→ View Repository](https://github.com/Parvez621/AttendX)**
+* Software Engineering
+* Backend Development
+* Machine Learning
 
 ---
 
-### 💳 UPI Fraud Detection
+## Technical Skills
 
-**Machine Learning Fraud Detection Pipeline**
-
-`Python` · `LightGBM` · `MySQL`
-
-> A behavioral fraud detection system built around simulated UPI transaction data.
-
-* 📊 **150K simulated transactions**
-* 🧠 **19 behavioral features** engineered per user window
-* 🚨 LightGBM classifier achieving **0.844 ROC-AUC**
-* 🎯 **98% fraud recall @ 85% precision**
-* ⚖️ Designed for highly **imbalanced classification**
-* 🔍 Features include device-switch ratio, night-transaction ratio and behavioral patterns
-
-**[→ View Repository](https://github.com/Parvez621/Upi_Fraud_Detection)**
+| Area                 | Technologies                                          |
+| -------------------- | ----------------------------------------------------- |
+| **Languages**        | Python, C++, JavaScript, SQL                          |
+| **Backend**          | Node.js, Express.js, REST APIs, Socket.IO, WebSockets |
+| **Databases**        | SQLite, MySQL                                         |
+| **Machine Learning** | LightGBM, Feature Engineering, Classification         |
+| **Computer Vision**  | OpenCV, MediaPipe                                     |
+| **Developer Tools**  | Git, GitHub, Postman, VS Code                         |
 
 ---
 
-### 👥 CodeSync
+## Selected Projects
 
-**Real-Time Collaborative Code Editor**
+### AttendX — Attendance & Task Management System
 
-`Node.js` · `Express.js` · `Socket.IO` · `Tree-sitter`
+**Node.js · Express · SQLite**
 
-> A collaborative coding environment where multiple developers can write, communicate and execute code together.
+Full-stack attendance and task management platform with role-based access, automated attendance workflows, and administrative functionality.
 
-* ⚡ Real-time synchronization for **5 concurrent users**
-* 🖱️ Multi-user cursor tracking with color-coded labels
-* 💬 In-room real-time chat
-* ▶️ Code execution through **JDoodle API**
-* 🐍 Supports **Python, C++ & Java**
-* 🌳 Interactive **AST visualization** using Tree-sitter
-* 📥 Custom stdin support for code execution
+**Engineering highlights**
 
-**[→ View Repository](https://github.com/Parvez621/Code-Sync)**
+* Designed and implemented **18 REST endpoints**
+* Implemented authentication using **bcrypt** and token-based session validation
+* Designed a normalized SQLite schema consisting of **4 linked tables** with foreign-key constraints
+* Implemented attendance logging using photo capture and geolocation
+* Added automated late-arrival detection
+* Built task management with three priority levels
+* Added CSV export and administrative database backup functionality
 
----
-
-### 🤟 Indian Sign Language → Text
-
-**Real-Time Computer Vision System**
-
-`Python` · `OpenCV` · `MediaPipe`
-
-> A computer vision application that recognizes hand gestures and converts them into text.
-
-* 👋 Real-time hand gesture recognition
-* 📍 MediaPipe hand landmark extraction
-* 🧹 Landmark preprocessing for consistent recognition
-* 🔄 Iterative gesture mapping & model refinement
-* 🖥️ Real-time camera-based processing
-
-**[→ View Repository](https://github.com/Parvez621/ISL-to-Text)**
+[View repository →](https://github.com/Parvez621/AttendX)
 
 ---
 
-# 📈 GitHub Activity
+### UPI Fraud Detection
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Parvez621" alt="GitHub Streak" />
-</p>
+**Python · LightGBM · MySQL**
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Parvez621&show_icons=true&hide_border=true&rank_icon=github" alt="GitHub Stats" />
-</p>
+Behavioral fraud detection system built using a simulated dataset of UPI transactions.
 
----
+**Engineering highlights**
 
-## 🎯 Currently
+* Generated and analyzed **150K transactions** representing normal and fraudulent behavior
+* Engineered **19 behavioral features** per user window
+* Included behavioral signals such as device-switch ratio and night-transaction ratio
+* Trained a LightGBM classifier for imbalanced fraud detection
+* Achieved **0.844 ROC-AUC** and **88% accuracy**
+* Tuned the decision threshold to achieve **98% fraud recall at 85% precision**
 
-```text
-🔭 Building       → Backend & Full-Stack Systems
-
-🤖 Exploring      → Machine Learning & Computer Vision
-
-⚡ Learning       → System Design & Scalable Architecture
-
-💼 Looking for    → Software Engineer / Backend / ML Roles
-
-🌱 Improving      → DSA • Backend Engineering • Cloud • System Design
-```
+[View repository →](https://github.com/Parvez621/Upi_Fraud_Detection)
 
 ---
 
-## 🤝 Let's Connect
+### CodeSync — Real-Time Collaborative Code Editor
 
-<p align="center">
-  <a href="https://linkedin.com/in/parvez-saifi">
-    <img src="https://img.shields.io/badge/LinkedIn-Parvez%20Saifi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:saifip621@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-saifip621%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+**Node.js · Express.js · Socket.IO · Tree-sitter**
 
-<p align="center">
-  <i>💡 Always open to interesting problems, collaborations, and opportunities.</i>
-</p>
+Real-time collaborative coding environment supporting simultaneous editing, communication, code execution, and C/C++ structure visualization.
 
-<p align="center">
-  <b>Thanks for visiting! ⭐</b>
-</p>
+**Engineering highlights**
+
+* Implemented real-time synchronization for **5 concurrent users**
+* Built live multi-user cursor tracking with color-coded labels
+* Implemented real-time room chat
+* Integrated JDoodle API for executing **C++, Java, and Python3**
+* Added custom stdin support for code execution
+* Built an interactive AST visualizer using **Tree-sitter**
+* Added C/C++ structure analysis capabilities
+
+[View repository →](https://github.com/Parvez621/Code-Sync)
+
+---
+
+### Indian Sign Language → Text
+
+**Python · OpenCV · MediaPipe**
+
+Real-time computer vision system for recognizing hand gestures and converting them into text.
+
+**Engineering highlights**
+
+* Implemented real-time camera-based processing
+* Extracted hand landmarks using MediaPipe
+* Added preprocessing for consistent gesture recognition
+* Developed gesture recognition and mapping logic
+* Iteratively refined gesture mappings through testing
+
+[View repository →](https://github.com/Parvez621/ISL-to-Text)
+
+---
+
+## GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Parvez621&show_icons=true&hide_border=true&rank_icon=github" height="165" alt="GitHub statistics" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parvez621&layout=compact&hide_border=true" height="165" alt="Top languages" />
+
+<br />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Parvez621&hide_border=true" alt="GitHub contribution streak" />
+
+</div>
+
+---
+
+## Education
+
+**Graphic Era Hill University**
+
+B.Tech — Computer Science and Engineering
+**2022 – 2026**
+
+---
+
+## Current Focus
+
+* Backend architecture and API design
+* System design
+* Real-time and distributed systems
+* Machine learning
+* Cloud and deployment
+
+---
+
+## Open to Opportunities
+
+I'm currently looking for **Software Engineer, Backend Developer, and Machine Learning opportunities**, including internships and full-time roles.
+
+If you're working on an interesting engineering problem, feel free to connect.
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/parvez-saifi-a59824249/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+
+<a href="mailto:saifip621@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+</a>
+
+</div>
