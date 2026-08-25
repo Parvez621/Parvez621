@@ -50,13 +50,13 @@ My interests sit at the intersection of **backend engineering, distributed real-
 ```text
 ┌──────────────────────────────────────────────────────────────┐
 │                                                              │
-│   🏗️ Backend Systems       ⚡ Real-Time Applications          │
+│   🏗️ Backend Systems       ⚡ Real-Time Applications        │
 │                                                              │
-│   🔐 Authentication         🤖 Machine Learning               │
+│   🔐 Authentication         🤖 Machine Learning             │
 │                                                              │
 │   🗄️ Database Design       👁️ Computer Vision               │
 │                                                              │
-│   🔌 REST APIs              🧩 Full-Stack Applications         │
+│   🔌 REST APIs              🧩 Full-Stack Applications      │
 │                                                              │
 └──────────────────────────────────────────────────────────────┘
 ```
