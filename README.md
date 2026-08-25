@@ -1,102 +1,230 @@
-<h1 align="center">Hi 👋, I'm Parvez Saifi</h1>
-<h3 align="center">Software Engineer | Backend Developer | ML Enthusiast</h3>
+<h1 align="center">Hey 👋, I'm Parvez Saifi</h1>
+
+<h3 align="center">
+  Software Engineer • Backend Developer • ML Enthusiast
+</h3>
 
 <p align="center">
-  Final-year Computer Science undergraduate (B.Tech, 2022–2026) building full-stack applications,
-  real-time systems, and machine learning models.
+  <b>Building scalable backends, real-time systems & intelligent applications.</b>
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/parvez-saifi"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:saifip621@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="[https://www.linkedin.com/in/parvez-saifi-a59824249/]">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:saifip621@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/Parvez621">
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+<br>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Parvez621&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 ---
 
-### 🚀 About Me
+## 🧑‍💻 About Me
 
-- 🎓 B.Tech in Computer Science and Engineering @ Graphic Era Hill University (2022–2026)
-- 💻 Experience building full-stack apps with authentication, RBAC, and relational database design
-- ⚡ Comfortable with real-time systems using WebSockets and Socket.IO
-- 🤖 Built ML models for fraud detection and computer vision-based sign language recognition
-- 🌱 Currently seeking **Software Engineer**, **Backend Developer**, or **Machine Learning** roles
-- 📫 Reach me at **saifip621@gmail.com**
+I'm a **final-year Computer Science undergraduate at Graphic Era Hill University**, passionate about turning ideas into reliable, production-ready software.
 
----
+My interests sit at the intersection of **backend engineering, distributed real-time systems, and machine learning**.
 
-### 🛠️ Tech Stack
+* 🎓 **B.Tech — Computer Science & Engineering** · 2022–2026
+* 🏗️ Building full-stack applications with **authentication, RBAC & relational databases**
+* ⚡ Developing **real-time systems** with WebSockets & Socket.IO
+* 🤖 Exploring **Machine Learning & Computer Vision**
+* 🔐 Interested in backend architecture, APIs, databases & system design
+* 🚀 Currently looking for **Software Engineer, Backend Developer & ML opportunities**
 
-**Languages**
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
-**Backend**
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![Socket.io](https://img.shields.io/badge/-Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white)
-![REST API](https://img.shields.io/badge/-REST%20API-02569B?style=flat-square)
-
-**Databases**
-![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
-**ML / CV**
-![LightGBM](https://img.shields.io/badge/-LightGBM-9ACD32?style=flat-square)
-![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![Mediapipe](https://img.shields.io/badge/-Mediapipe-0097A7?style=flat-square)
-
-**Tools**
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+> **I enjoy building things that are not only functional, but scalable, secure, and easy to reason about.**
 
 ---
 
-### 🔥 Featured Projects
+## ⚡ What I Build
 
-#### 🗂️ [AttendX – Attendance & Task Management System](https://github.com/Parvez621/AttendX)
-`Node.js` `Express` `SQLite`
-- Full-stack attendance platform with role-based access across 18 REST endpoints
-- Secured auth endpoints with bcrypt password hashing and token-based session validation
-- Normalized SQLite schema with 4 linked tables and foreign-key constraints
-- Automated attendance logging with photo capture, geolocation tagging, and late-arrival detection
-- Task tracking with 3-tier priority levels, CSV export, and admin database backups
-
-#### 💳 [UPI Fraud Detection System](https://github.com/Parvez621/Upi_Fraud_Detection)
-`Python` `MySQL` `LightGBM`
-- Simulated a 150K-transaction UPI dataset modeling normal and fraud behavior patterns
-- Engineered 19 behavioral features per user window (device-switch ratio, night-transaction ratio, etc.)
-- Trained a LightGBM classifier achieving **0.844 ROC-AUC** and 88% accuracy on imbalanced data
-- Tuned decision threshold to hit 98% fraud recall at 85% precision
-
-#### 👥 [CodeSync – Real-Time Collaborative Code Editor](https://github.com/Parvez621/Code-Sync)
-`Node.js` `Express.js` `Socket.IO`
-- Real-time code editor supporting 5 concurrent users via Socket.IO broadcast sync
-- Live multi-user cursors with color-coded, auto-fading labels, plus in-room chat
-- Integrated JDoodle API to execute code in C++, Java, and Python3 with custom stdin
-- Built an AST visualizer with Tree-sitter for interactive C/C++ structure analysis
-
-#### 🤟 [Indian Sign Language (ISL) to Text Conversion](https://github.com/Parvez621/ISL-to-Text)
-`Python` `OpenCV` `Mediapipe`
-- Real-time computer vision system converting hand gestures into text
-- Extracted hand landmark features with preprocessing for consistent gesture recognition
-- Improved model accuracy through iterative testing and gesture-mapping refinement
+```text
+┌──────────────────────────────────────────────────────────────┐
+│                                                              │
+│   🏗️ Backend Systems       ⚡ Real-Time Applications          │
+│                                                              │
+│   🔐 Authentication         🤖 Machine Learning               │
+│                                                              │
+│   🗄️ Database Design       👁️ Computer Vision               │
+│                                                              │
+│   🔌 REST APIs              🧩 Full-Stack Applications         │
+│                                                              │
+└──────────────────────────────────────────────────────────────┘
+```
 
 ---
 
-### 📊 GitHub Stats
+## 🛠️ Tech Stack
 
-<!-- <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Parvez621&show_icons=true&theme=default" alt="GitHub Stats" />
-</p> -->
+### 💻 Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,cpp,js,sql" />
+</p>
+
+### ⚙️ Backend & APIs
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,socketio" />
+</p>
+
+**REST APIs** · **Authentication** · **RBAC** · **WebSockets** · **Session Management**
+
+### 🗄️ Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite" />
+</p>
+
+**Relational Database Design** · **Normalization** · **Foreign Keys** · **SQL**
+
+### 🤖 Machine Learning & Computer Vision
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,opencv" />
+</p>
+
+**LightGBM** · **OpenCV** · **MediaPipe** · **Feature Engineering** · **Classification**
+
+### 🔧 Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+### 🗂️ AttendX
+
+**Attendance & Task Management System**
+
+`Node.js` · `Express` · `SQLite`
+
+> A full-stack platform designed around attendance tracking, task management and administrative workflows.
+
+* 🔌 **18 REST endpoints** with role-based access control
+* 🔐 bcrypt password hashing + token-based session validation
+* 🗄️ Normalized SQLite schema with **4 linked tables**
+* 📸 Automated attendance using **photo capture + geolocation**
+* ⏰ Automatic **late-arrival detection**
+* 📋 Task management with **3 priority levels**
+* 📤 CSV export + administrative database backups
+
+**[→ View Repository](https://github.com/Parvez621/AttendX)**
+
+---
+
+### 💳 UPI Fraud Detection
+
+**Machine Learning Fraud Detection Pipeline**
+
+`Python` · `LightGBM` · `MySQL`
+
+> A behavioral fraud detection system built around simulated UPI transaction data.
+
+* 📊 **150K simulated transactions**
+* 🧠 **19 behavioral features** engineered per user window
+* 🚨 LightGBM classifier achieving **0.844 ROC-AUC**
+* 🎯 **98% fraud recall @ 85% precision**
+* ⚖️ Designed for highly **imbalanced classification**
+* 🔍 Features include device-switch ratio, night-transaction ratio and behavioral patterns
+
+**[→ View Repository](https://github.com/Parvez621/Upi_Fraud_Detection)**
+
+---
+
+### 👥 CodeSync
+
+**Real-Time Collaborative Code Editor**
+
+`Node.js` · `Express.js` · `Socket.IO` · `Tree-sitter`
+
+> A collaborative coding environment where multiple developers can write, communicate and execute code together.
+
+* ⚡ Real-time synchronization for **5 concurrent users**
+* 🖱️ Multi-user cursor tracking with color-coded labels
+* 💬 In-room real-time chat
+* ▶️ Code execution through **JDoodle API**
+* 🐍 Supports **Python, C++ & Java**
+* 🌳 Interactive **AST visualization** using Tree-sitter
+* 📥 Custom stdin support for code execution
+
+**[→ View Repository](https://github.com/Parvez621/Code-Sync)**
+
+---
+
+### 🤟 Indian Sign Language → Text
+
+**Real-Time Computer Vision System**
+
+`Python` · `OpenCV` · `MediaPipe`
+
+> A computer vision application that recognizes hand gestures and converts them into text.
+
+* 👋 Real-time hand gesture recognition
+* 📍 MediaPipe hand landmark extraction
+* 🧹 Landmark preprocessing for consistent recognition
+* 🔄 Iterative gesture mapping & model refinement
+* 🖥️ Real-time camera-based processing
+
+**[→ View Repository](https://github.com/Parvez621/ISL-to-Text)**
+
+---
+
+# 📈 GitHub Activity
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Parvez621" alt="GitHub Streak" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Parvez621&show_icons=true&hide_border=true&rank_icon=github" alt="GitHub Stats" />
+</p>
+
 ---
 
-<p align="center"><i>Thanks for stopping by — always open to interesting projects and opportunities!</i></p>
+## 🎯 Currently
+
+```text
+🔭 Building       → Backend & Full-Stack Systems
+
+🤖 Exploring      → Machine Learning & Computer Vision
+
+⚡ Learning       → System Design & Scalable Architecture
+
+💼 Looking for    → Software Engineer / Backend / ML Roles
+
+🌱 Improving      → DSA • Backend Engineering • Cloud • System Design
+```
+
+---
+
+## 🤝 Let's Connect
+
+<p align="center">
+  <a href="https://linkedin.com/in/parvez-saifi">
+    <img src="https://img.shields.io/badge/LinkedIn-Parvez%20Saifi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:saifip621@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-saifip621%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <i>💡 Always open to interesting problems, collaborations, and opportunities.</i>
+</p>
+
+<p align="center">
+  <b>Thanks for visiting! ⭐</b>
+</p>
